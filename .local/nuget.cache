@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ytfi40n0OXDwwn2Le6tdRob0+OCEFH/UpI5y5yLJVNoX85nMDKm4EqpGJT97rGsb45X+8tt8DsqgB/zGJ8m4gw==",
+  "dgSpecHash": "2/8K1lzYeafz0q8nY/WPJSiJQipa8DQXcyaGTM1svuKnYJQAxFW5vQHSyb6s8T3BzzQD+0jA17w8woKOkn9u4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.lopes\\Documents\\UiPath\\desafio4\\Desafio-4\\.local\\",
+  "projectFilePath": "C:\\Users\\felipe.lopes\\Desktop\\GitHub\\Desafio-4\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
