@@ -8417,9 +8417,9 @@
     "restore": {
       "projectUniqueName": "Desafio 4",
       "projectName": "Desafio 4",
-      "projectPath": "C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local",
+      "projectPath": "C:\\Users\\felipe.lopes\\Documents\\Desafios_Meta\\Desafio_4\\.local",
       "packagesPath": "C:\\Users\\felipe.lopes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local"
+      "outputPath": "C:\\Users\\felipe.lopes\\Documents\\Desafios_Meta\\Desafio_4\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8453,13 +8453,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

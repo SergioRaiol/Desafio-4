@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EorEr4M4In0SX/bxEXr534dAB6my3DpLBWlX87xOQ8NTHkYgkFEpjah8sVoMIT6tBPSF+yJ5IKtEE73vV3WsXg==",
+  "dgSpecHash": "hryygeR15MaCR42o4bkhghvfVK+ctVdDugKwM0kiJ1XKr2k6sv2GoGFg9P31su73ECbR40Q6AztGCVbVoMcKUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local\\",
+  "projectFilePath": "C:\\Users\\felipe.lopes\\Documents\\Desafios_Meta\\Desafio_4\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -104,13 +104,5 @@
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\uipath.uiautomation.activities.22.4.7.nupkg.sha512",
     "C:\\Users\\felipe.lopes\\.nuget\\packages\\uipath.vision\\3.3.0\\uipath.vision.3.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local",
-      "message": "Problem reading the cache file C:\\Users\\felipe.lopes\\Desktop\\Desafio-4\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
